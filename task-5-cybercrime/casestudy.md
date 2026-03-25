@@ -7,9 +7,13 @@ This type of cybercrime occurs through a technique called 'Social Engineering,' 
 **How UPI Scams Happen (Step-by-Step):**
 
 **The Bait:** The attacker contacts the student through an online marketplace, such as OLX, or WhatsApp, stating that he or she wants to transfer a 'scholarship,' 'cashback,' or 'payment' for a product.
+
 **Social Engineering:** The attacker gains the student's trust and says, "I am sending you the money now. Just open your app and click on 'Accept' to receive the payment."
+
 **The Trap:** The attacker does not transfer the payment; instead, he or she uses the 'Request Money' option on the UPI app and sends a payment request to the student's UPI ID.
+
 **Authorization:** The student, thinking he or she is receiving a payment, enters his or her UPI PIN as prompted by the UPI app.
+
 **The Theft:** As soon as the PIN is entered, the transaction is authorized, and money is instantly deducted from the student's account and moved to the attacker's wallet.
 
 **Target & Consequences:**
